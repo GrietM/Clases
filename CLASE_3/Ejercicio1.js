@@ -6,3 +6,4 @@ while (counter < 25) {
   console.log(counter);
  };
  
+ console.log('hola mundo')
